@@ -1,0 +1,13 @@
+{
+  "name": "payments-app",
+  "version": "0.0.0",
+  "private": true,
+  "description": "paymentsApp",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18.16.0"
+  },
+  "cacheDirectories": [
+    "node_modules"
+  ]
+}

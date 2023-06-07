@@ -1,0 +1,344 @@
+{
+  "actions" : [ {
+    "module" : "init",
+    "date" : "2023-06-05T17:24:49.913881883Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "application-service-hexagonal-architecture-documentation",
+    "date" : "2023-06-05T17:24:54.334942306Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "github-codespaces",
+    "date" : "2023-06-05T17:24:57.974660005Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "maven-java",
+    "date" : "2023-06-05T17:25:04.586420901Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "prettier",
+    "date" : "2023-06-05T17:25:09.735671465Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "dockerfile",
+    "date" : "2023-06-05T17:25:14.531173538Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "gitlab-ci",
+    "date" : "2023-06-05T17:25:18.627889885Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "jacoco-check-min-coverage",
+    "date" : "2023-06-05T17:25:22.731619993Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "java-base",
+    "date" : "2023-06-05T17:25:30.204777936Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "sonar-qube-java-backend",
+    "date" : "2023-06-05T17:25:48.043918537Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "sonar-qube-java-backend-and-frontend",
+    "date" : "2023-06-05T17:26:00.929114519Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "pagination-domain",
+    "date" : "2023-06-05T17:26:08.476886280Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot",
+    "date" : "2023-06-05T17:26:21.685710767Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "logstash",
+    "date" : "2023-06-05T17:26:36.464277224Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "postgresql",
+    "date" : "2023-06-05T17:26:55.323361705Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-cache",
+    "date" : "2023-06-05T17:27:09.878190195Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-devtools",
+    "date" : "2023-06-05T17:27:25.210765124Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-mvc-empty",
+    "date" : "2023-06-05T17:27:36.623915402Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "ehcache-java-config",
+    "date" : "2023-06-05T17:27:47.030785225Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "jpa-pagination",
+    "date" : "2023-06-05T17:28:05.606545260Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "liquibase",
+    "date" : "2023-06-05T17:28:22.813464724Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-tomcat",
+    "date" : "2023-06-05T17:28:41.943151532Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "hibernate-2nd-level-cache",
+    "date" : "2023-06-05T17:29:03.540125693Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-cucumber-mvc",
+    "date" : "2023-06-05T17:29:22.452536414Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-jwt",
+    "date" : "2023-06-05T17:29:47.207895293Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "springdoc-mvc-openapi",
+    "date" : "2023-06-05T17:30:14.720311603Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "kipe-authorization",
+    "date" : "2023-06-05T17:30:33.231872704Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "kipe-expression",
+    "date" : "2023-06-05T17:30:56.518924390Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "init",
+    "date" : "2023-06-05T17:31:02.510125625Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "rest-pagination",
+    "date" : "2023-06-05T17:31:24.326645396Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-cucumber-jpa-reset",
+    "date" : "2023-06-05T17:31:58.587807245Z",
+    "properties" : {
+      "packageName" : "com.natwest.payment",
+      "projectName" : "paymentsApp",
+      "baseName" : "paymentsApp",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  } ]
+}
